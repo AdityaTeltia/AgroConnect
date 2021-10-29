@@ -36,7 +36,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/HackThisFall">
+  <a href="https://github.com/AdityaTeltia/AgroConnect">
     <img src="https://www.linkpicture.com/q/logo-1.png" alt="Logo" width="250" >
   </a>  
 <h3 align="center">AgroConnect</h3>
@@ -44,14 +44,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AdityaTeltia/AgroConnect"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/AdityaTeltia/AgroConnect">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/AdityaTeltia/AgroConnect/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/AdityaTeltia/AgroConnect/issues">Request Feature</a>
   </p>
 </div>
 
@@ -209,9 +209,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [AgroConnect](https://github.com/AdityaTeltia/AgroConnect)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -263,7 +262,3 @@ npx hardhat help
 ```
 
 
-## Contributors :star_struck:
-<a href="https://github.com/AdityaTeltia/HackThisFall/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=AdityaTeltia/HackThisFall&max=300" />
-</a>
