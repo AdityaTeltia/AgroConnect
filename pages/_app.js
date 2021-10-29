@@ -14,7 +14,7 @@ function Marketplace({ Component, pageProps }) {
   return (
     <div>
       <nav className="border-b p-6" style = {{backgroundColor:"#082850"}}>
-        <p className="text-4xl font-bold" style = {{color:"white"}}>NFT KISHAN KUNJ</p>
+        <p className="text-4xl font-bold" style = {{color:"white"}}>AgroConnect Marketplace</p>
         <div className="flex mt-4">
           <Link href="/">
             <a className="mr-4 text-gray-500" style = {(active == 'home') ? activeStyles : {}} onClick={handleClick('home')}>
