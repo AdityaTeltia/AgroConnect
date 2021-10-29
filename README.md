@@ -37,9 +37,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/HackThisFall">
-    <img src="images/logo.png" alt="Logo" width="250" >
+    <img src="https://www.linkpicture.com/q/logo-1.png" alt="Logo" width="250" >
   </a>  
-<h3 align="center">KissanKunj</h3>
+<h3 align="center">AgroConnect</h3>
 
   <p align="center">
     project_description
